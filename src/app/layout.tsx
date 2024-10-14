@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Lama Dev Social Media App",
-  description: "Social media app built with Next.js",
+  title: "FlyStream",
+  description: "Stream your favorite movies for free.",
 };
 
 export default function RootLayout({
